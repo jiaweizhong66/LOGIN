@@ -9,4 +9,4 @@ Email: czhong@admin.com
 Password: 123456
 ```
 
-## You can run this app [here](https://trackermaster.herokuapp.com/).
+## You can run this app [here](https://czadmin.herokuapp.com/).
